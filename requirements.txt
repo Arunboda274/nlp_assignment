@@ -1,0 +1,20 @@
+# ============================================================
+# AI Story Continuation System - Requirements
+# ============================================================
+
+# Deep Learning Framework
+torch==2.15.0
+
+# Hugging Face - Model loading and tokenization
+transformers==5.22.2
+
+# Web Frontend
+streamlit==1.67.0
+
+# AWS SDK
+boto3==1.44.0
+sagemaker>=2.195.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
